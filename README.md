@@ -43,6 +43,10 @@ A simple interactive project designed to demonstrate the integration of Flecs an
 - The demo will start with a basic screen showing bouncing entities.
 - Modify the source code to add more entities or change their behaviors.
 
+## Project Image
+
+![Project Image](https://i.imgur.com/NO9QdBF.gif)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
